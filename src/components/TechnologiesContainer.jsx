@@ -22,7 +22,6 @@ const TechnologiesContainer = () => {
   return (
     <section className="technologies-container">
       <h2>Tecnologias</h2>
-      
       <div className="technologies-grid">
         {technologies.map((tech) => (
             <div className="technology-card" id={tech.id} key={tech.id}>
@@ -30,9 +29,11 @@ const TechnologiesContainer = () => {
               <div className="technology-info">
                 <h3>{tech.name}</h3>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia praesentium atque quasi aspernatur 
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                  Quia praesentium atque quasi aspernatur 
                   doloremque provident eum dicta molestias 
-                  quisquam, pariatur debitis. Accusamus quia, molestiae a facere itaque iure repellat sed!
+                  quisquam, pariatur debitis. Accusamus quia, molestiae a 
+                  facere itaque iure repellat sed!
                 </p>
               
               </div>
