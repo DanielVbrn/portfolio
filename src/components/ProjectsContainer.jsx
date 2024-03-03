@@ -11,7 +11,7 @@ const ProjectsContainer = () => {
         recusandae aut! Minus excepturi quibusdam aperiam eos!
       </p>
     
-      <a href="#" className='btn'>
+      <a href="https://github.com/DanielVbrn" className='btn'>
         Ver Projetos
       </a>
     </section>
