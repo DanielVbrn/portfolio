@@ -5,13 +5,11 @@ const ProjectsContainer = () => {
     <section className="projects-container">
       <h2>Projetos</h2>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-        Eius, quis? Inventore dignissimos blanditiis perferendis 
-        quia enim earum, porro deleniti sunt dicta quos. Quas, 
-        recusandae aut! Minus excepturi quibusdam aperiam eos!
+        Quanto a projetos, eu já mexi com um pouco de tudo, tanto para projetos pessoais como
+        para projetos do meu curso, isso com as mais variadas linguagens
       </p>
     
-      <a href="https://github.com/DanielVbrn" className='btn'>
+      <a href="https://github.com/DanielVbrn?tab=repositories" className='btn'>
         Ver Projetos
       </a>
     </section>
