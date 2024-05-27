@@ -33,7 +33,7 @@ const technologies = [
     id: "node", 
     name: "Node.js", 
     icon: <DiNodejsSmall /> ,
-    text:"Já desenvolvi projetos com nodejs, sendo essa a  que aprendi lógica de progração, projetos voltados para o backend de aplicações, como criação de apis para serviços web."
+    text:"Já desenvolvi projetos com nodejs, projetos voltados para o backend de aplicações, como criação de apis para serviços web."
   },
   { 
     id: "postgresql", 
