@@ -9,7 +9,7 @@ const ProjectsContainer = () => {
         para projetos do meu curso, isso com as mais variadas linguagens
       </p>
     
-      <a href="https://github.com/DanielVbrn?tab=repositories" className='btn'>
+      <a href="https://github.com/DanielVbrn/ifpi-ads-projeto-integrador/tree/master/App_Stageo" className='btn'>
         Ver Projetos
       </a>
     </section>
