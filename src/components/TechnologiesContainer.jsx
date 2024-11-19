@@ -5,8 +5,9 @@ import {
   DiNodejsSmall,
   DiPostgresql,
   DiReact,
-  DiTypo3,
-  DiGit
+  DiGit,
+  DiDocker,
+  DiBootstrap
 } from "react-icons/di"
 
 import "../styles/components/technologiescontainer.sass"
@@ -39,7 +40,7 @@ const technologies = [
     id: "postgresql", 
     name: "Postgresql", 
     icon: <DiPostgresql />,
-    text:"Já desenvolvi projetos com PostgreSQL, sendo o banco que mais utilizei para projetos, fazendo consultas e executando ações no banco como inserts, updates, deletes."
+    text:"Já desenvolvi projetos com PostgreSQL, sendo o banco que mais utilizei para projetos, fazendo consultas e executando ações no banco como inserts, updates, deletes. Além disso inplementei sistemas a nível de banco de dados usando triggers e funções."
 
   },
   { 
@@ -56,7 +57,18 @@ const technologies = [
     text:"Já desenvolvi projetos com Git para controle de versão, e desenvolvi aplicações junto a minha equipe."
 
   },
-
+  {
+    id:"docker",
+    name: "Docker",
+    icon:<DiDocker/>,
+    text:"Já desenvolvi projetos com Docker para deploy de aplicações e criação de containers."
+  },
+  {
+    id:"bootstrap",
+    name:"BootStrap",
+    icon:<DiBootstrap/>,
+    text:"Implementei landing pages e aplicações responsivas completas usando na estilização BootStrap."
+  }
 
 ];
 
