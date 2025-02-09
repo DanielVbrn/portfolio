@@ -9,8 +9,8 @@ const ProjectsContainer = () => {
         para projetos do meu curso, isso com as mais variadas linguagens
       </p>
     
-      <h2>Projeto de loja de Jogos</h2>
-      <h4>Loja de jogos construída usando a stack de Nodejs</h4>
+      <h3>Projeto de loja de Jogos</h3>
+      <p>Loja de jogos construída usando a stack de Nodejs</p>
       <a href="https://front-chi-six.vercel.app/" className='btn'>
       Ver Projeto
       </a>
